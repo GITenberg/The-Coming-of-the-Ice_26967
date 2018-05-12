@@ -1,0 +1,37 @@
+_repo: The-Coming-of-the-Ice_26967
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peyton, Green
+    alias: Wertenbaker, Green Peyton
+    birthdate: 1907
+    deathdate: 1968
+    gutenberg_agent_id: '31621'
+    url: http://www.gutenberg.org/2009/agents/31621
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Coming of the Ice
+url: http://www.gutenberg.org/ebooks/26967
